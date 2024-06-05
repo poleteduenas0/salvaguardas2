@@ -1,0 +1,2 @@
+j = "prueba"
+print(j)
